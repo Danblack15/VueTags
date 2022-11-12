@@ -1,0 +1,108 @@
+[{
+		"title": "\"Город сыра и мира\"",
+		"alignment": "width",
+		"id": 824924,
+		"tagList": [{
+				"text": "5",
+				"icon": "mdi-star-outline"
+			},
+			{
+				"text": "Историческая",
+				"icon": null
+			},
+			{
+				"text": "На автобусе",
+				"icon": "mdi-bus"
+			},
+			{
+				"text": "28 марта",
+				"icon": null
+			},
+			{
+				"text": "9 часов",
+				"icon": "mdi-clock-time-three-outline"
+			}
+		]
+	},
+	{
+		"title": "Экскурсия в национальный парк \"Куршская коса\"",
+		"alignment": "left",
+		"id": 214125,
+		"tagList": [
+			{
+				"text": "5",
+				"icon": "mdi-star-outline"
+			},
+			{
+				"text": "Обзорная",
+				"icon": null
+			},
+			{
+				"text": "На автобусе",
+				"icon": "mdi-bus"
+			},
+			{
+				"text": "25 марта",
+				"icon": null
+			},
+			{
+				"text": "6 часов",
+				"icon": "mdi-clock-time-three-outline"
+			}
+		]
+	},
+	{
+		"title": "\"О кирхах, рыцарях и замках\"",
+		"alignment": "left",
+		"id": 94832,
+		"tagList": [
+			{
+				"text": "5",
+				"icon": "mdi-star-outline"
+			},
+			{
+				"text": "Историческая",
+				"icon": null
+			},
+			{
+				"text": "На автобусе",
+				"icon": "mdi-bus"
+			},
+			{
+				"text": "29 марта",
+				"icon": null
+			},
+			{
+				"text": "6 часов",
+				"icon": "mdi-clock-time-three-outline"
+			}
+		]
+	},
+	{
+		"title": "Экскурсия в Янтарный",
+		"alignment": "width",
+		"id": 59281,
+		"tagList": [
+			{
+				"text": "Историческая",
+				"icon": null
+			},
+			{
+				"text": "На автобусе",
+				"icon": "mdi-bus"
+			},
+			{
+				"text": "29 марта",
+				"icon": null
+			},
+			{
+				"text": "6 часов",
+				"icon": "mdi-clock-time-three-outline"
+			},
+			{
+				"text": "до 49",
+				"icon": "mdi-account"
+			}
+		]
+	}
+]
