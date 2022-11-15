@@ -20,20 +20,9 @@
 
 	&__list {
 		overflow: hidden;
-		height: 1.55em;
 	}
 
 	&__tag {
-		&:not(:first-child)::before {
-			content: "";
-			width: 24px;
-			height: 24px;
-			margin: auto;
-			mask: url('@/assets/spacer.svg') no-repeat 50% 50%;
-			background: rgba(0, 0, 0, 0.87);
-			transition: 0.3s cubic-bezier(0.25, 0.8, 0.5, 1), visibility 0s;
-		}
-
 		&--width {
 			flex: 1 1 auto;
 
@@ -42,5 +31,4 @@
 			}
 		}
 	}
-
 }
